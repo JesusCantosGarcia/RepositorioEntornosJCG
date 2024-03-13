@@ -8,7 +8,7 @@ public class Bucle1 {
 		// variables
 		int numeroVeces;
 		
-		System.out.println("¿Cuántas veces quieres que te salude?");
+		System.out.println("¿Cuántas veces quieres que te salude?");//Esto es un comentario
 		numeroVeces = Integer.parseInt(teclado.nextLine());
 		
 		while(numeroVeces>0) {
